@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zeratulspc.color_viewer">
    <application
-        android:label="color_viewer"
+        android:label="Color Viewer"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
